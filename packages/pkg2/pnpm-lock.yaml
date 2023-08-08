@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@ls-jk/pkg1': workspace:^1.0.0
+
+dependencies:
+  '@ls-jk/pkg1': link:../pkg1
